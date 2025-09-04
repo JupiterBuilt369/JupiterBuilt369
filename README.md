@@ -47,8 +47,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JupiterBuilt369&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JupiterBuilt369&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JupiterBuilt369&theme=tokyonight" height="200px"/>
 </p>
 
 ---
